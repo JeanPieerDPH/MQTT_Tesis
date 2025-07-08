@@ -14,3 +14,5 @@ En tercer lugar, se aplica los algoritmos Pearson coefficient correlation (PCC),
 Posteriormente, se crea un dataset con los algoritmos seleccionados, para usarlo en el modelo.
 En cuarto lugar, se divide el dataset en 80 - 20, en la primera porcion se usa la tecnica de validacion cruzada con 10 iteraciones para obtener los mejores hiperparametros para cada algoritmo y entrenarlo.
 Finalmente, se crea el modelo mediante la tecnica de votacion, validandolo con los demas datos.
+
+Dataset: https://drive.google.com/file/d/1Gbc3rl9WkykU-WWr848NNe5S-sw9e4kT/view?usp=sharing
